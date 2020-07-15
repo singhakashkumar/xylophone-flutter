@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/singhakashkumar/ xylophone-flutter.svg)](http://hits.dwyl.com/singhakashkumar/ xylophone-flutter)
+[![HitCount](http://hits.dwyl.com/singhakashkumar/xylophone-flutter.svg)](http://hits.dwyl.com/singhakashkumar/xylophone-flutter)
 # Xylophone 🎹
 
 ## Our Goal
